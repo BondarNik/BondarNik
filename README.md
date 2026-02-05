@@ -1,10 +1,8 @@
 ## Hi, I'm Nikita 👋
 Frontend / Full-Stack Developer
 
-I build modern e-commerce and FPV-focused web applications  
-using React, Next.js & TypeScript.
-
-🚀 Real projects, real deployment, real business logic.
+- One lov,one life
+- In my free time, I like boxing, going to ballroom dances, and listening to music. In the evenings, I love playing CS:GO and Rust.
 
 ---
 
@@ -15,13 +13,6 @@ using React, Next.js & TypeScript.
 - Tailwind / ShadCN UI
 - REST APIs
 - GitHub Pages / Vercel
-
----
-
-### 🔥 Featured Project
-Flugart — FPV & Electronics E-commerce
-
-👉 Live demo: https://bondarnik.github.io/flugart 
 
 ---
 
