@@ -10,7 +10,7 @@ Frontend / Full-Stack Developer
 - React / Next.js
 - TypeScript
 - Vite
-- Tailwind / ShadCN UI
+- Tailwind / UX&UI Design
 - REST APIs
 - GitHub Pages / Vercel
 
