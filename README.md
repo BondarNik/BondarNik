@@ -1,7 +1,7 @@
 ## Hi, I'm Nikita 👋
 Frontend / Full-Stack Developer
 
-- One lov,one life
+- One love - one life
 - In my free time, I like boxing, going to ballroom dances, and listening to music. In the evenings, I love playing CS:GO and Rust.
 
 ---
